@@ -1,1 +1,1 @@
-For start game u need start index.html
+For start game u need start main.html
